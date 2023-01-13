@@ -1,0 +1,22 @@
+h1 {
+    font-style: italic;
+    text-align: center;
+    color: #12ab3c;
+}
+
+p {
+    text-align: center;
+    font-family:sans-serif;
+    color: red;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+#topic {
+    color: #f6cb23;
+}
