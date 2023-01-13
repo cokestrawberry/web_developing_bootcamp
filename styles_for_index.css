@@ -1,11 +1,22 @@
-h1 {
-    font-style: italic;
+body {
     text-align: center;
+    background-color: #fefefe;
+    margin: 50px;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-style: italic;
     color: #12ab3c;
 }
 
+img {
+    width: 127px;
+    height: 163px;
+    border-radius: 10px;
+}
+
 p {
-    text-align: center;
     font-family:sans-serif;
     color: red;
 }
@@ -13,6 +24,7 @@ p {
 a{
     text-decoration: none;
 }
+
 a:hover{
     text-decoration: underline;
 }
@@ -22,3 +34,4 @@ a:hover{
     font-weight: bold;
     font-size: 40px;
 }
+
