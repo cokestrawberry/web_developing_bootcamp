@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #fefefe;
+    margin: 50px;
+}
+
+img {
+    width: 127px;
+    height: 163px;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}

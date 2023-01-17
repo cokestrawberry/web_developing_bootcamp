@@ -1,32 +1,12 @@
-body {
-    text-align: center;
-    background-color: #fefefe;
-    margin: 50px;
-}
-
 h1 {
     font-family: 'Lobster', cursive;
     font-style: italic;
     color: #12ab3c;
 }
 
-img {
-    width: 127px;
-    height: 163px;
-    border-radius: 10px;
-}
-
 p {
     font-family:sans-serif;
     color: red;
-}
-
-a{
-    text-decoration: none;
-}
-
-a:hover{
-    text-decoration: underline;
 }
 
 #topic {
