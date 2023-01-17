@@ -38,8 +38,12 @@
     - 상속 (inheritance)
     - 계단식 모델 (css stands for "Casacading" Style Sheets)
     - 우선순위 (ordered with specificity)
-  -css 박스 모델
+  - css 박스 모델
     - 내용 (contents)
     - 테두리 (border)
     - 패딩 (padding)
     - 여백 (margin)
+  - html 레이아웃
+    - header
+    - main
+    - footer
