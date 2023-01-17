@@ -1,8 +1,14 @@
 h1 {
     font-size: 40px;
     font-weight: 400;
+    font-family: 'Sofia Sans', sans-serif;
+    color: #bfbf00;
 }
 
 ol {
-    color: #0f0f0f;
+    list-style:upper-roman;
+}
+
+li {
+    margin: 10px;
 }
