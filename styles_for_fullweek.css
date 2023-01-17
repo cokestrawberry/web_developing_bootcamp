@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: #fefefe;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 400;
+}
+
+img {
+    width: 127px;
+    height: 163px;
+    border-radius: 10px;
+}
+
+ol {
+    color: #0f0f0f;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
