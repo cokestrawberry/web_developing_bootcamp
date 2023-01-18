@@ -4,14 +4,19 @@ h1 {
     color: #12ab3c;
 }
 
-p {
+main p {
     font-family:sans-serif;
     color: red;
 }
 
+ul {
+    list-style: none;
+}
+
 #topic {
+    font-family: 'Sofia Sans', sans-serif;
     color: #f6cb23;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 20px;
 }
 

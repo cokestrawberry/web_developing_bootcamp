@@ -1,12 +1,17 @@
 h1 {
+    width: 400px;
     font-size: 40px;
     font-weight: 400;
     font-family: 'Sofia Sans', sans-serif;
     color: #bfbf00;
+    border: solid;
+    border-radius: 5px;
+    border-color: #bfbf00;
+    padding: 5px 15px 5px 15px;
 }
 
 ol {
-    width: 400px;
+    width: fit-content;
     font-size: 16px;
     list-style:upper-roman;
     margin: 15px auto 20px auto;
@@ -14,12 +19,23 @@ ol {
     list-style: none;
 }
 
-li {
+li{
+    padding: 30px 20px 30px 20px;
+}
+
+ol h2{
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+.goals {
+    font-family: 'Sofia Sans', sans-serif;
+    font-weight: bolder;
+    width: fit-content;
     background-color: #cccccc;
     border-radius: 15px;
     border-style: solid;
     border: 5px 5px 5px 5px;
     border-color: #000000;
-    padding: 3px 3px 3px 3px;
-    margin: 10px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px auto 10px auto;
 }
