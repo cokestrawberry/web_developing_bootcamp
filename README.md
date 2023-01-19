@@ -67,8 +67,8 @@
       - Group : element_name,element_name
       - Class : .class_name
     - 결합자
-      - descendant -> li <p> -> all <p> with li as ancestor
-      - child -> h2 > <p> -> only <p> which are direct child of h2
+      - descendant -> li p -> all p with li as ancestor
+      - child -> h2 > p -> only p which are direct child of h2
     - 클래스
       - 요소들을 묶어서 별명(?) 같은걸 부여하는 듯?
       - 그럼 그룹이랑 무슨 차이지..?
