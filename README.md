@@ -218,4 +218,12 @@
     *** 기억할 내용 ***
 
     - 프로젝트에 flex-box 추가함
-    - 
+    - 배경 이미지 추가
+    - 중심 컨텐츠 포지셔닝을 위한 컨테이너 생성
+    - 포지셔닝 (이전에 조금 공부해서 위에 정리해놓은 z-position 같은거)
+      - static
+      - relative
+      - absolute (문서 흐름 무시 -> relative로 설정된 최상위 레벨에 상대적 위치)
+      - fixed (view-port에 대해 특정 위치에 고정 -> relative to view-port)
+      - 문서 흐름
+    - % 단위 작업 (부모 요소에 상대적)
