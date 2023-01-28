@@ -227,3 +227,4 @@
       - fixed (view-port에 대해 특정 위치에 고정 -> relative to view-port)
       - 문서 흐름
     - % 단위 작업 (부모 요소에 상대적)
+      - box-sizing
