@@ -10,10 +10,14 @@ header {
 
 main ul {
     width: 1200px;
-    margin: 0 auto;
+    margin: 10px auto 50px auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px 20px;
+}
+
+li:nth-of-type(1) {
+    grid-column: 1 / span 2;
 }
 
 main li {
@@ -25,8 +29,8 @@ main li {
 }
 
 main li img {
-    width: 300px;
-    height: 280px;
+    width: 320px;
+    height: 320px;
     object-fit: cover;
 }
 
